@@ -15,7 +15,7 @@
 ###    만약 다른 프로그램에서 카메라를 점유하고 있다면 해제하세요.
 
 ### 4. please run 'opcv_yolo.py'.
-###    'opcv_yolo.py'파일을 실행시키세요.
+###    'opcv_yolo.py'스크립트를 실행시키세요.
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8E24AA&height=150&section=footer" />
