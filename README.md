@@ -4,7 +4,7 @@
 
 # Project
 - ## opcv
-- python
+- python, opencv(https://opencv.org/), yolov3(https://pjreddie.com/darknet/yolo/)
 ### 1. You should receive the 'yolov3-spp.weights' file through the link below. 
 ###    아래링크를 통해 'yolov3-spp.weights'파일을 받으세요. (용량이 커서 git에 못올립니다.)
 ### https://pjreddie.com/darknet/yolo/
