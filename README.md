@@ -22,10 +22,10 @@
 ###    만약 다른 프로그램에서 카메라를 점유하고 있다면 해제하세요.  
 <br/>
 
-### 4. Please receive the opencv library through the terminal.  
-###   You can enter the command 'pip install opencv-python' in the window and 'sudo pip3 install opencv-python' in the MAC.  
-###   터미널에 명령어를 입력하여 opencv라이브러리를 받아주세요.  
-###   윈도우에서는 'pip install opencv-python'  MAC에서는 'sudo pip3 install opencv-python' 명령어를 입력하면 됩니다.  
+### 4. Please receive the opencv and numpy library through the terminal.  
+###   You can enter the command 'pip install opencv-python' and 'pip install numpy' in the window and 'sudo pip3 install opencv-python' and 'sudo pip install numpy' in the MAC.  
+###   터미널에 명령어를 입력하여 opencv와 numpy 라이브러리를 받아주세요.  
+###   윈도우에서는 'pip install opencv-python' 그리고 'pip install numpy' MAC에서는 'sudo pip3 install opencv-python' 그리고 'sudo pip install numpy' 명령어를 입력하면 됩니다.  
 <br/>
 
 ### 5. please run 'opcv_yolo.py'.
