@@ -24,7 +24,9 @@
 
 ### 4. Please receive the opencv library through the terminal.  
 ###   You can enter the command 'pip install opencv-python' in the window and 'sudo pip3 install opencv-python' in the MAC.  
-###   윈도우에서 터미널에 'pip install opencv-python'  MAC에서는 'sudo pip3 install opencv-python' 를 통해 opencv 라이브러리를 받아주세요.
+###   터미널에 명령어를 입력하여 opencv라이브러리를 받아주세요.  
+###   윈도우에서는 'pip install opencv-python'  MAC에서는 'sudo pip3 install opencv-python' 명령어를 입력하면 됩니다.  
+<br/>
 
 ### 5. please run 'opcv_yolo.py'.
 ###    'opcv_yolo.py'스크립트를 실행시키세요.  
