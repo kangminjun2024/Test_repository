@@ -4,7 +4,7 @@
 
 # Project
 - ## opcv
-- Smaller projects for object recognition
+- Object recognition prototype project
 - python(https://www.python.org/), opencv(https://opencv.org/), yolov3(https://pjreddie.com/darknet/yolo/)
 <br/>
 
