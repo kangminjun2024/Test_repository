@@ -29,8 +29,8 @@
 ###   'pip install opencv-python' 그리고 'pip install numpy'를 입력하면 됩니다.
 <br/>
 
-### 5. please run 'opcv_yolo.py'.
-###    'opcv_yolo.py'스크립트를 실행시키세요.  
+### 5. please place the terminal in the opcv folder and run the 'opcv_yolo.py' script.
+###    opcv폴더로 터미널을 위치시키고 'opcv_yolo.py'스크립트를 실행시키세요.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8E24AA&height=150&section=footer" />
